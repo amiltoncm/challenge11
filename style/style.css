@@ -1,0 +1,45 @@
+#timer {
+  font-size: 42px;
+  color: rgb(255, 0, 0);
+  padding-right: 50px;
+}
+
+#divcharacter {
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+#character {
+  font-size: 230px;
+  font-style: oblique;
+  color: rgb(12, 245, 12);
+}
+
+#divscore {
+  margin-bottom: 25px;
+  padding-bottom: 0px;
+}
+
+#score {
+  font-size: 30px;
+  color: rgb(0, 245, 245);
+}
+
+#scoreDisplay {
+  font-size: 30px;
+  color: rgb(0, 245, 245);
+}
+
+#diverrors {
+  margin-bottom: 25px;
+  padding-bottom: 0px;
+}
+#errors {
+  font-size: 30px;
+  color: rgb(255, 255, 0);
+}
+
+#scoreErrors {
+  font-size: 30px;
+  color: rgb(255, 255, 0);
+}
